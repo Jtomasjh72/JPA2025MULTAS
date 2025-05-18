@@ -1,0 +1,27 @@
+
+Proyecto: JPA2025MULTAS
+Alumno: José Tomás Jiménez Herrera X3617751N
+Correo// jjh1001@alu.ubu.es
+Fecha:18/05/2025
+Descripción:
+Este proyecto implementa una aplicación JPA con Hibernate para la gestión de incidencias de tráfico. Incluye:
+- Modelo de entidades completo
+- Acceso a datos mediante DAOs
+- Servicio con tres transacciones
+- Consultas SQL generadas por Hibernate
+- Análisis detallado en formato PDF
+
+Instrucciones:
+1. Ejecutar la clase: es.ubu.lsi.test.TestClient
+   - Botón derecho > Run As > Java Application
+2. Verificar la salida en consola
+   - Hibernate mostrará las consultas SQL generadas
+   - Se validará el correcto funcionamiento de:
+     • insertarIncidencia
+     • indultar
+     • consultarVehiculos
+3. El archivo `analisis_consultas.pdf` se encuentra en la carpeta `consultas/`
+
+Notas:
+- El sistema de logging SLF4J muestra una advertencia al inicio (log4j:WARN), pero no afecta al funcionamiento de la aplicación
+- El proyecto ha sido versionado con Git desde el 1 hasta el 19 de mayo de 2025
