@@ -548,3 +548,553 @@
 2025-05-18 15:02:48 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [ABC]
 2025-05-18 15:02:48 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [10000000C]
 2025-05-18 15:02:48 TRACE BasicExtractor:50 - extracted value ([nif2_1_1__] : [VARCHAR]) - [null]
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - SQL*Plus: Release 11.2.0.2.0 Production on Lun May 19 00:04:57 2025
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - Connected to:
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+2025-05-19 00:04:57 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - Table dropped.
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - Table dropped.
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - Table dropped.
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - Table dropped.
+2025-05-19 00:04:58 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - Table created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - Table created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - Table created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - Table created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row updated.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 1 row created.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - Commit complete.
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - 
+2025-05-19 00:04:59 INFO  ExecuteScript:64 - Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+2025-05-19 00:05:01 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: Multas]
+2025-05-19 00:05:01 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.13.Final
+2025-05-19 00:05:02 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2025-05-19 00:05:04 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-05-19 00:05:05 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@localhost:1521:XE]
+2025-05-19 00:05:05 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, autocommit=false, user=HR}
+2025-05-19 00:05:05 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2025-05-19 00:05:05 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 5 (min=1)
+2025-05-19 00:05:07 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2025-05-19 00:05:14 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-05-19 00:05:15 DEBUG SQL:128 - 
+    select
+        conductor0_.nif as nif1_0_0_,
+        conductor0_.apellido as apellido2_0_0_,
+        conductor0_.ciudad as ciudad3_0_0_,
+        conductor0_.cp as cp4_0_0_,
+        conductor0_.direccion as direccion5_0_0_,
+        conductor0_.nombre as nombre6_0_0_,
+        conductor0_.puntos as puntos7_0_0_,
+        conductor0_.idauto as idauto8_0_0_ 
+    from
+        HR.CONDUCTOR conductor0_ 
+    where
+        conductor0_.nif=?
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [10000000A]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([apellido2_0_0_] : [VARCHAR]) - [Manzanal]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_0_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([cp4_0_0_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([direccion5_0_0_] : [VARCHAR]) - [C/Vitoria 56]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([nombre6_0_0_] : [VARCHAR]) - [Juana]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([puntos7_0_0_] : [INTEGER]) - [6]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:15 DEBUG SQL:128 - 
+    select
+        tipoincide0_.id as id1_2_0_,
+        tipoincide0_.descripcion as descripcion2_2_0_,
+        tipoincide0_.valor as valor3_2_0_ 
+    from
+        HR.TIPOINCIDENCIA tipoincide0_ 
+    where
+        tipoincide0_.id=?
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [1] as [BIGINT] - [3]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([descripcion2_2_0_] : [VARCHAR]) - [Moderada]
+2025-05-19 00:05:15 TRACE BasicExtractor:60 - extracted value ([valor3_2_0_] : [INTEGER]) - [3]
+2025-05-19 00:05:15 DEBUG SQL:128 - 
+    /* insert es.ubu.lsi.model.multas.Incidencia
+        */ insert 
+        into
+            HR.INCIDENCIA
+            (anotacion, idtipo, fecha, nif) 
+        values
+            (?, ?, ?, ?)
+2025-05-19 00:05:15 TRACE BasicBinder:52 - binding parameter [1] as [VARCHAR] - [null]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [2] as [BIGINT] - [3]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [3] as [TIMESTAMP] - [Wed May 15 16:00:00 CEST 2019]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [4] as [VARCHAR] - [10000000A]
+2025-05-19 00:05:15 DEBUG SQL:128 - 
+    /* update
+        es.ubu.lsi.model.multas.Conductor */ update
+            HR.CONDUCTOR 
+        set
+            apellido=?,
+            ciudad=?,
+            cp=?,
+            direccion=?,
+            nombre=?,
+            puntos=?,
+            idauto=? 
+        where
+            nif=?
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [Manzanal]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [2] as [VARCHAR] - [Burgos]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [3] as [VARCHAR] - [09003]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [4] as [VARCHAR] - [C/Vitoria 56]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [5] as [VARCHAR] - [Juana]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [6] as [INTEGER] - [3]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [7] as [VARCHAR] - [ABC]
+2025-05-19 00:05:15 TRACE BasicBinder:64 - binding parameter [8] as [VARCHAR] - [10000000A]
+2025-05-19 00:05:18 DEBUG SQL:128 - 
+    select
+        conductor0_.nif as nif1_0_0_,
+        conductor0_.apellido as apellido2_0_0_,
+        conductor0_.ciudad as ciudad3_0_0_,
+        conductor0_.cp as cp4_0_0_,
+        conductor0_.direccion as direccion5_0_0_,
+        conductor0_.nombre as nombre6_0_0_,
+        conductor0_.puntos as puntos7_0_0_,
+        conductor0_.idauto as idauto8_0_0_ 
+    from
+        HR.CONDUCTOR conductor0_ 
+    where
+        conductor0_.nif=?
+2025-05-19 00:05:18 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [10000000A]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([apellido2_0_0_] : [VARCHAR]) - [Manzanal]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_0_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([cp4_0_0_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([direccion5_0_0_] : [VARCHAR]) - [C/Vitoria 56]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([nombre6_0_0_] : [VARCHAR]) - [Juana]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([puntos7_0_0_] : [INTEGER]) - [3]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:18 DEBUG SQL:128 - 
+    select
+        tipoincide0_.id as id1_2_0_,
+        tipoincide0_.descripcion as descripcion2_2_0_,
+        tipoincide0_.valor as valor3_2_0_ 
+    from
+        HR.TIPOINCIDENCIA tipoincide0_ 
+    where
+        tipoincide0_.id=?
+2025-05-19 00:05:18 TRACE BasicBinder:64 - binding parameter [1] as [BIGINT] - [5]
+2025-05-19 00:05:18 DEBUG SQL:128 - 
+    select
+        conductor0_.nif as nif1_0_0_,
+        conductor0_.apellido as apellido2_0_0_,
+        conductor0_.ciudad as ciudad3_0_0_,
+        conductor0_.cp as cp4_0_0_,
+        conductor0_.direccion as direccion5_0_0_,
+        conductor0_.nombre as nombre6_0_0_,
+        conductor0_.puntos as puntos7_0_0_,
+        conductor0_.idauto as idauto8_0_0_ 
+    from
+        HR.CONDUCTOR conductor0_ 
+    where
+        conductor0_.nif=?
+2025-05-19 00:05:18 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [10000000C]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([apellido2_0_0_] : [VARCHAR]) - [Plaza]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_0_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([cp4_0_0_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([direccion5_0_0_] : [VARCHAR]) - [C/Vitoria 58]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([nombre6_0_0_] : [VARCHAR]) - [Jimena]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([puntos7_0_0_] : [INTEGER]) - [3]
+2025-05-19 00:05:18 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:19 DEBUG SQL:128 - 
+    /* DELETE 
+    FROM
+        Incidencia i 
+    WHERE
+        i.conductor.nif = :nif */ delete 
+        from
+            HR.INCIDENCIA 
+        where
+            nif=?
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [10000000C]
+2025-05-19 00:05:19 DEBUG SQL:128 - 
+    /* update
+        es.ubu.lsi.model.multas.Conductor */ update
+            HR.CONDUCTOR 
+        set
+            apellido=?,
+            ciudad=?,
+            cp=?,
+            direccion=?,
+            nombre=?,
+            puntos=?,
+            idauto=? 
+        where
+            nif=?
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [Plaza]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [2] as [VARCHAR] - [Burgos]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [3] as [VARCHAR] - [09003]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [4] as [VARCHAR] - [C/Vitoria 58]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [5] as [VARCHAR] - [Jimena]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [6] as [INTEGER] - [12]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [7] as [VARCHAR] - [ABC]
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [8] as [VARCHAR] - [10000000C]
+2025-05-19 00:05:19 DEBUG SQL:128 - 
+    select
+        conductor0_.nif as nif1_0_0_,
+        conductor0_.apellido as apellido2_0_0_,
+        conductor0_.ciudad as ciudad3_0_0_,
+        conductor0_.cp as cp4_0_0_,
+        conductor0_.direccion as direccion5_0_0_,
+        conductor0_.nombre as nombre6_0_0_,
+        conductor0_.puntos as puntos7_0_0_,
+        conductor0_.idauto as idauto8_0_0_ 
+    from
+        HR.CONDUCTOR conductor0_ 
+    where
+        conductor0_.nif=?
+2025-05-19 00:05:19 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [00000000Z]
+2025-05-19 00:05:19 DEBUG SQL:128 - 
+    /* SELECT
+        DISTINCT v 
+    FROM
+        Vehiculo v 
+    LEFT JOIN
+        FETCH v.conductores c 
+    LEFT JOIN
+        FETCH c.incidencias i 
+    LEFT JOIN
+        FETCH i.tipoIncidencia */ select
+            distinct vehiculo0_.idauto as idauto1_3_0_,
+            conductore1_.nif as nif1_0_1_,
+            incidencia2_.fecha as fecha1_1_2_,
+            incidencia2_.nif as nif2_1_2_,
+            tipoincide3_.id as id1_2_3_,
+            vehiculo0_.ciudad as ciudad2_3_0_,
+            vehiculo0_.cp as cp3_3_0_,
+            vehiculo0_.direccion as direccion4_3_0_,
+            vehiculo0_.nombre as nombre5_3_0_,
+            conductore1_.apellido as apellido2_0_1_,
+            conductore1_.ciudad as ciudad3_0_1_,
+            conductore1_.cp as cp4_0_1_,
+            conductore1_.direccion as direccion5_0_1_,
+            conductore1_.nombre as nombre6_0_1_,
+            conductore1_.puntos as puntos7_0_1_,
+            conductore1_.idauto as idauto8_0_1_,
+            conductore1_.idauto as idauto8_0_0__,
+            conductore1_.nif as nif1_0_0__,
+            incidencia2_.anotacion as anotacion3_1_2_,
+            incidencia2_.idtipo as idtipo4_1_2_,
+            incidencia2_.nif as nif2_1_1__,
+            incidencia2_.fecha as fecha1_1_1__,
+            tipoincide3_.descripcion as descripcion2_2_3_,
+            tipoincide3_.valor as valor3_2_3_ 
+        from
+            HR.VEHICULO vehiculo0_ 
+        left outer join
+            HR.CONDUCTOR conductore1_ 
+                on vehiculo0_.idauto=conductore1_.idauto 
+        left outer join
+            HR.INCIDENCIA incidencia2_ 
+                on conductore1_.nif=incidencia2_.nif 
+        left outer join
+            HR.TIPOINCIDENCIA tipoincide3_ 
+                on incidencia2_.idtipo=tipoincide3_.id
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-05-15 16:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad2_3_0_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp3_3_0_] : [VARCHAR]) - [09001]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion4_3_0_] : [VARCHAR]) - [Avda. Palencia 45]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre5_3_0_] : [VARCHAR]) - [FORD]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Manzanal]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 56]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Juana]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([descripcion2_2_3_] : [VARCHAR]) - [Moderada]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([valor3_2_3_] : [INTEGER]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-05-15 16:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-11 12:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Exceso de velocidad en calzada de pueblo]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([descripcion2_2_3_] : [VARCHAR]) - [Grave]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([valor3_2_3_] : [INTEGER]) - [6]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-11 12:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [10000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [10000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-12 11:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [10000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Calle]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 57]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Javier]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [6]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Falta grave con semáforo]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [10000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [10000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [10000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-12 11:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [10000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-12 12:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad2_3_0_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp3_3_0_] : [VARCHAR]) - [09001]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion4_3_0_] : [VARCHAR]) - [C/Obdulio 2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre5_3_0_] : [VARCHAR]) - [MERCEDES]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Torquemada]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 58]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Pablo]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Falta grave con semáforo]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-12 12:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-12 13:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Falta grave posterior con semáforo]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-12 13:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [20000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [30000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-13 14:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [30000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad2_3_0_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp3_3_0_] : [VARCHAR]) - [09001]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion4_3_0_] : [VARCHAR]) - [C/Progreso 10]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre5_3_0_] : [VARCHAR]) - [CITROEN]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Del Barrio]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 56]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Raquel]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [9]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Falta moderada]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [30000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [3]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [30000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [30000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-13 14:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [30000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [30000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-13 15:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [30000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Manzanedo]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 57]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Rosa]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [6]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Falta grave]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [30000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [2]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [30000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [30000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-13 15:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [30000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [30000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [2019-04-13 16:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [30000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([id1_2_3_] : [BIGINT]) - [1]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Manzanita]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 58]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Roberto]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([anotacion3_1_2_] : [VARCHAR]) - [Falta muy grave]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_2_] : [VARCHAR]) - [30000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idtipo4_1_2_] : [BIGINT]) - [1]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([descripcion2_2_3_] : [VARCHAR]) - [Muy grave]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([valor3_2_3_] : [INTEGER]) - [12]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [MNP]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [30000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [30000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([fecha1_1_1__] : [TIMESTAMP]) - [2019-04-13 16:00:00.0]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif2_1_1__] : [VARCHAR]) - [30000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [20000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([id1_2_3_] : [BIGINT]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Del Barrio]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 56]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Paloma]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [12]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [20000000A]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([nif2_1_1__] : [VARCHAR]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [20000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([id1_2_3_] : [BIGINT]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Medina]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 57]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Pedro]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [12]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [XYZ]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [20000000B]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([nif2_1_1__] : [VARCHAR]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto1_3_0_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_1_] : [VARCHAR]) - [10000000C]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([fecha1_1_2_] : [TIMESTAMP]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:50 - extracted value ([id1_2_3_] : [BIGINT]) - [null]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([apellido2_0_1_] : [VARCHAR]) - [Plaza]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([ciudad3_0_1_] : [VARCHAR]) - [Burgos]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([cp4_0_1_] : [VARCHAR]) - [09003]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([direccion5_0_1_] : [VARCHAR]) - [C/Vitoria 58]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nombre6_0_1_] : [VARCHAR]) - [Jimena]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([puntos7_0_1_] : [INTEGER]) - [12]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_1_] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([idauto8_0_0__] : [VARCHAR]) - [ABC]
+2025-05-19 00:05:20 TRACE BasicExtractor:60 - extracted value ([nif1_0_0__] : [VARCHAR]) - [10000000C]
+2025-05-19 00:05:21 TRACE BasicExtractor:50 - extracted value ([nif2_1_1__] : [VARCHAR]) - [null]
